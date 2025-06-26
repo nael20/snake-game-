@@ -1,2 +1,2 @@
 # snake-game-
-bir yilan oynu
+Yapay zeka ile yılan ünitesi, klasik yılan oyununu yapay zeka ile oynatır. Python ve Tkinter kullanır. Üç tür yapay zeka vardır: Hamilton : Güvenli bir yolu takip eder. Greedy : En kısa yoldan yemeğe gider. DQN : Öğrenerek karar verir ama en iyi sonuçlanma oranına sahip değildir. Hamilton ve Greedy daha başarılıdır. Oyun sürekli yemeği yeyip daha da büyümektedir. Kurulumu kolay ve çalıştırması basittir. Yapay zekâ ile oyun oynamak üzerine güzel bir örnek.
